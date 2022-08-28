@@ -2332,7 +2332,7 @@ public class RLAgent : Agent
             case 3:
                 {
 
-                    mazeCheckpointsCount = 12;
+                    mazeCheckpointsCount = 17;
                     mazeBrainActive = false;
                     Transform maze = mazes.GetChild(mazeNumber - 1);
                     maze.gameObject.SetActive(true);

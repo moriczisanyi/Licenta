@@ -22,8 +22,6 @@ behaviors:
       curiosity:
         gamma: 0.99
         strength: 0.02
-        #strength: 0.05 #for collectable obstacle
-        #strength: 0.15 #for maze obstacle, too much
         encoding_size: 128
 
     keep_checkpoints: 5
