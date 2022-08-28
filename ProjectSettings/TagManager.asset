@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Floor
+  - Goal
+  - Checkpoint
+  - Agent
+  - Lava
+  - CrouchObstacle
+  - Collectable
+  - WallObstacle
+  - MovingObjects
+  - Box
+  - Button
+  - Maze
+  - O1
+  - O2
+  - O3
+  - O4
+  - MazeTrigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Obstacle
+  - Goal
+  - ObstacleReward
+  - Checkpoint
+  - Agent
+  - Lava
+  - Collectable
+  - Box
+  - MovingObjects
+  - CrouchObstacle
+  - WallObstacle
+  - Button
+  - Maze
+  - O1
+  - O2
+  - O3
+  - O4
+  - MazeTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
