@@ -9045,6 +9045,10 @@ PrefabInstance:
       value: 4.13
       objectReference: {fileID: 0}
     - target: {fileID: 4649825639599941642, guid: 05e045391a34e4847a40350f4a76fb1d, type: 3}
+      propertyPath: m_Name
+      value: MovingLava
+      objectReference: {fileID: 0}
+    - target: {fileID: 4649825639599941642, guid: 05e045391a34e4847a40350f4a76fb1d, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}

@@ -2249,9 +2249,10 @@ public class RLAgent : Agent
     }
     private void Edge_1_2()
     {
-        Transform lava = transform.parent.transform.Find("LavaObstacles").Find("Lava (2)");
+        Transform lava = transform.parent.transform.Find("LavaObstacles").Find("MovingLava");
         if (lava != null)
         {
+            Debug.Log("ceva");
             lava.GetComponent<Lava>().MovingLava = true;
         }
     }
